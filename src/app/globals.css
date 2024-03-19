@@ -28,6 +28,7 @@ body {
 
 @layer utilities {
   .text-balance {
-    text-wrap: balance;
+   /* overflow-wrap: break-word; */
+   text-wrap: balance;
   }
 }
